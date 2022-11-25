@@ -23,6 +23,13 @@
 		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UChVniWN4UoSlWd1OKjJEqEA">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
       </div>
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+
+---
+
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
 </p>
 
