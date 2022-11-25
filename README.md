@@ -1,9 +1,8 @@
 <h1 align="center">Hi, I'm Delia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p>
-  <a <img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CDCFFF&width=435&lines=Hello+Folks;Welcome+to+my+github+profile" alt="Typing SVG" /></a>" 
+  <a  align="center" <img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CDCFFF&width=435&lines=Hello+Folks;Welcome+to+my+github+profile" alt="Typing SVG" /></a>
 </p>
 <h3 align="center">I'm an informatics engineering student who interested in programming and UI/UX.</h3>
-
 
 <p align="center">
  <img src="https://visitor-badge.glitch.me/badge?page_id=DeliaPutri" />
