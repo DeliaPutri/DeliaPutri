@@ -5,7 +5,7 @@
 <h3 align="center">I'm an informatics engineering student who interested in programming and UI/UX.</h3>
 
 <p align="center">
- <img src="https://visitor-badge.glitch.me/badge?page_id=DeliaPutri" />
+ <img src="https://visitor-badge.glitch.me/badge?page_id=DeliaPutri"/>
 </p>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
