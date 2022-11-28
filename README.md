@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<img align="middle" alt="GIF" src="https://media.giphy.com/media/3oEduR6BxaE9undCIU/giphy.gif" />
+<img align="middle" alt="GIF" src="https://media.giphy.com/media/2P1GgEM5OpH6E/giphy.gif" />
 </p>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
