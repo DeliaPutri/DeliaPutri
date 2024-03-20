@@ -1,4 +1,4 @@
-<h1 align="center">Hi bby gorl <img src="https://media.giphy.com/media/1GlbvqgjeGzF4zQMYi/giphy.gif" width="60"></h1>
+<h1 align="center">Hai bby gorl <img src="https://media.giphy.com/media/1GlbvqgjeGzF4zQMYi/giphy.gif" width="60"></h1>
 <h3 align="center">I'm an informatics engineering student who interested in programming and UI/UX.</h3>
 
 <p align="center">
